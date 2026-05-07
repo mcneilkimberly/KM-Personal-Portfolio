@@ -7,4 +7,4 @@ This is an online portfolio displaying an About Me section, multiple Projects, E
 The technologies used were HTML, CSS, JS, and Font Awesome.
 
 ## Website Link
-Here is the [Website Link] (kimberlymcneilportfolio.netlify.app).
+Here is the [Website Link](kimberlymcneilportfolio.netlify.app).
